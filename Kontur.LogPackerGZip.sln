@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontur.LogPackerGZip", "Kontur.LogPackerGZip\Kontur.LogPackerGZip.csproj", "{FB295297-1C07-41EE-9AA7-CF4375E0F0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB295297-1C07-41EE-9AA7-CF4375E0F0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB295297-1C07-41EE-9AA7-CF4375E0F0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB295297-1C07-41EE-9AA7-CF4375E0F0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB295297-1C07-41EE-9AA7-CF4375E0F0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9142E59F-3927-454C-B5B3-193A50256BAC}
+	EndGlobalSection
+EndGlobal
